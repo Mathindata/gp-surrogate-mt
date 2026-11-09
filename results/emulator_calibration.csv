@@ -1,0 +1,5 @@
+case,emulator,coverage_90,rms_error_in_noise_units
+A,"fixed design, N = 200",0.847,2.352
+B,"fixed design, N = 200",0.93,1.916
+A,active learning (seed 0),0.999,0.014
+B,active learning (seed 0),0.961,0.022

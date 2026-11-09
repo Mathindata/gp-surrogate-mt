@@ -1,0 +1,62 @@
+{
+ "pb23c.edi": {
+  "url": "https://raw.githubusercontent.com/MTgeophysics/mtpy/c4554ec6f67116878f004ffc2806215996529e6f/examples/data/edi_files/pb23c.edi",
+  "sha256": "b22ed6b39d10a3fa3a84eb064a8e777bcf6438cc4b7706b2299b4fa5454f0fc5"
+ },
+ "pb25c.edi": {
+  "url": "https://raw.githubusercontent.com/MTgeophysics/mtpy/c4554ec6f67116878f004ffc2806215996529e6f/examples/data/edi_files/pb25c.edi",
+  "sha256": "9ce843f8ef05bb30490e6458587e14a98b0b8366c2a20069f9eb891c4e9404cf"
+ },
+ "pb27c.edi": {
+  "url": "https://raw.githubusercontent.com/MTgeophysics/mtpy/c4554ec6f67116878f004ffc2806215996529e6f/examples/data/edi_files/pb27c.edi",
+  "sha256": "376ebed0c69a03dc8b42b949d1f502778ae0534d677a441278acb596754e4683"
+ },
+ "pb29c.edi": {
+  "url": "https://raw.githubusercontent.com/MTgeophysics/mtpy/c4554ec6f67116878f004ffc2806215996529e6f/examples/data/edi_files/pb29c.edi",
+  "sha256": "b717f171641de1f15ec06cddc47dae408481cf54e3eea3a3061104eae4e7d416"
+ },
+ "pb30c.edi": {
+  "url": "https://raw.githubusercontent.com/MTgeophysics/mtpy/c4554ec6f67116878f004ffc2806215996529e6f/examples/data/edi_files/pb30c.edi",
+  "sha256": "9ec4c2437767095d9637a70d16da756ca40d8504ed8d56848b52a4d54437c6d6"
+ },
+ "pb32c.edi": {
+  "url": "https://raw.githubusercontent.com/MTgeophysics/mtpy/c4554ec6f67116878f004ffc2806215996529e6f/examples/data/edi_files/pb32c.edi",
+  "sha256": "288630e3e9c6d38548dc7ad5283e7de427f3bde2056c610fc2815c1367745aff"
+ },
+ "pb33c.edi": {
+  "url": "https://raw.githubusercontent.com/MTgeophysics/mtpy/c4554ec6f67116878f004ffc2806215996529e6f/examples/data/edi_files/pb33c.edi",
+  "sha256": "a208eaa1d73bd2e45940d789dec0cf71c9eda2325cbbec3c636f30f52e7d6f19"
+ },
+ "pb35c.edi": {
+  "url": "https://raw.githubusercontent.com/MTgeophysics/mtpy/c4554ec6f67116878f004ffc2806215996529e6f/examples/data/edi_files/pb35c.edi",
+  "sha256": "b898ee404c312e5dc52e52160964cd06c7d7e3012fa9bcec290b507f7722a3a4"
+ },
+ "pb37c.edi": {
+  "url": "https://raw.githubusercontent.com/MTgeophysics/mtpy/c4554ec6f67116878f004ffc2806215996529e6f/examples/data/edi_files/pb37c.edi",
+  "sha256": "0a5a2a414188c358d3dded59e86487145ce60405518f3ddde72ef08648600d4e"
+ },
+ "pb39c.edi": {
+  "url": "https://raw.githubusercontent.com/MTgeophysics/mtpy/c4554ec6f67116878f004ffc2806215996529e6f/examples/data/edi_files/pb39c.edi",
+  "sha256": "0ceee4bea487627aecb3105eb0ef783b26e67284dfefa062d05b72894b1f9d7f"
+ },
+ "pb40c.edi": {
+  "url": "https://raw.githubusercontent.com/MTgeophysics/mtpy/c4554ec6f67116878f004ffc2806215996529e6f/examples/data/edi_files/pb40c.edi",
+  "sha256": "1486775a9e93774a8ab242f493383a9646271b95f7a93145370ab2d6341d9d8a"
+ },
+ "pb41c.edi": {
+  "url": "https://raw.githubusercontent.com/MTgeophysics/mtpy/c4554ec6f67116878f004ffc2806215996529e6f/examples/data/edi_files/pb41c.edi",
+  "sha256": "a0be8630f9fa1780951761237ae6044049a84c9431ae9a355acb904489448ceb"
+ },
+ "pb42c.edi": {
+  "url": "https://raw.githubusercontent.com/MTgeophysics/mtpy/c4554ec6f67116878f004ffc2806215996529e6f/examples/data/edi_files/pb42c.edi",
+  "sha256": "0dd30e33831e046cca5629e246143f6cd3f30e5309d7b005240397cc3194d4b6"
+ },
+ "pb43c.edi": {
+  "url": "https://raw.githubusercontent.com/MTgeophysics/mtpy/c4554ec6f67116878f004ffc2806215996529e6f/examples/data/edi_files/pb43c.edi",
+  "sha256": "d704fc722d3b491ca4c6e24f80016fb30a77ac789d6a0015f5d4cd89440ade20"
+ },
+ "pb44c.edi": {
+  "url": "https://raw.githubusercontent.com/MTgeophysics/mtpy/c4554ec6f67116878f004ffc2806215996529e6f/examples/data/edi_files/pb44c.edi",
+  "sha256": "1eb3d6b5df8114aca47891299993e095d064ef94cfecf9f1d987192038d6e95e"
+ }
+}
